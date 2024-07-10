@@ -1,3 +1,5 @@
 # ShareWave
-Wave FRee
+Wave Free
 Welcome To Wave Free
+
+#How To Get Key Free?
