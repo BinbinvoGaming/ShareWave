@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "getwave.gg/1.0.0": {
+        "dependencies": {
+          "ICSharpCode.AvalonEdit": "6.3.0.90"
+        },
+        "runtime": {
+          "getwave.gg.dll": {}
+        }
+      },
+      "ICSharpCode.AvalonEdit/6.3.0.90": {
+        "runtime": {
+          "ICSharpCode.AvalonEdit.dll": {
+            "assemblyVersion": "6.3.0.90",
+            "fileVersion": "6.3.0.90"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "getwave.gg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ICSharpCode.AvalonEdit/6.3.0.90": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
