@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Bypass KeySystem Wave
-// @namespace    https://greasyfork.org/en/users/1302141-conel
+// @name         Bypass Key System Wave
+// @namespace    https://Github.com/BinbinvoGaming
 // @version      1.0
 // @description   Bypass KeySystem Wave EXECUTOR windows
-// @author       conel
+// @author       BinbinvoGaming
 // @match        *://*.key.getwave.gg/*
 // @match        *://*.linkvertise.com/*
 // @match        *://*.loot-link.com/*
@@ -13,7 +13,7 @@
 
 
 // @license      MIT
-// @supportURL   https://discord.gg/byMKdEURYV
+// @supportURL   https://discord.gg/SDvEHaKyPs
 // ==/UserScript==
 
 (function() {
